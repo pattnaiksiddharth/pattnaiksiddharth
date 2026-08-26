@@ -81,17 +81,17 @@ An app to track complaints, public notices, and all society issues — residents
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pattnaiksiddharth&show_icons=true&theme=nord&border_color=0A2472&title_color=0A2472&icon_color=0A2472&text_color=c9d1d9&hide_border=false" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattnaiksiddharth&layout=compact&theme=nord&border_color=0A2472&title_color=0A2472&text_color=c9d1d9" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=pattnaiksiddharth&show_icons=true&theme=nord&border_color=0A2472&title_color=0A2472&icon_color=0A2472&text_color=c9d1d9&hide_border=false" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pattnaiksiddharth&layout=compact&theme=nord&border_color=0A2472&title_color=0A2472&text_color=c9d1d9" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=pattnaiksiddharth&theme=nord&border=0A2472&ring=0A2472&fire=0A2472&sideNums=c9d1d9&currStreakLabel=0A2472" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=pattnaiksiddharth&theme=nord&border=0A2472&ring=0A2472&fire=0A2472&sideNums=c9d1d9&currStreakLabel=0A2472" />
 
 </div>
 
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pattnaiksiddharth&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=pattnaiksiddharth&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
 ## 📈 Contribution Activity
