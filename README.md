@@ -88,20 +88,6 @@ An app to track complaints, public notices, and all society issues — residents
 
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=pattnaiksiddharth&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pattnaiksiddharth&theme=react-dark&color=0A2472&line=0A2472&point=ffffff&area=true&area_color=0A2472" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2472,100:1B263B&height=3&section=header" width="100%"/>
-
 ## 📫 Connect With Me
 
 <div align="center">
